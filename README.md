@@ -1,5 +1,5 @@
 # 🌱 sprout - A small collision engine demo.
-With _sprout 🌱_ objective is to find a compromise between performances and relatively physically realistic collisions detection and response.
+_sprout 🌱_'s objective is to find a compromise between performances and relatively physically realistic collisions detection and response.
 
 ### Collision detection
 Currently _sprout 🌱_ performs collision detection in two steps :
