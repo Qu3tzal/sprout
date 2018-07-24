@@ -16,5 +16,10 @@ Some adjustements are still needed in case of the collision between two moveable
 - [ ] Static friction
 - [ ] Dynamic friction
 
+
+### Dependencies
+- C++11
+- SFML 2.5
+
 _300 moving boxes with gravity inside a giant box made of 4 walls._
 ![A box made of 4 walls with 300 small boxes inside](https://raw.githubusercontent.com/Qu3tzal/sprout/master/sproutdemo.png)
